@@ -11,3 +11,4 @@ To restart the Hitrobotservice
 
 0. Reboot the robotaudioservice  
 
+PS: About backup. Plz save robot/CreatMap.js and isr.js
